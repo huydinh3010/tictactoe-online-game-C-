@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\nguyen huy dinh\documents\visual studio 2017\project\tictactoeserver\tictactoeserver\main.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\nguyen huy dinh\documents\visual studio 2017\project\tictactoeserver\tictactoeserver\main.cpp(240): warning C4018: '<': signed/unsigned mismatch
+c:\users\nguyen huy dinh\documents\visual studio 2017\project\tictactoeserver\tictactoeserver\main.cpp(250): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\nguyen huy dinh\documents\visual studio 2017\project\tictactoeserver\tictactoeserver\main.cpp(284): warning C4018: '<': signed/unsigned mismatch
+  TicTacToeServer.vcxproj -> C:\Users\Nguyen Huy Dinh\Documents\Visual Studio 2017\Project\TicTacToeServer\Debug\TicTacToeServer.exe
